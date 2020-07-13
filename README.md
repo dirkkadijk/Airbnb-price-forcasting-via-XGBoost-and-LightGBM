@@ -1,7 +1,6 @@
 # What factors influence the price of Airbnb rental most, based on XGBoost and LightGBM machine learning?
 
-by Dirk Kadijk, Data Scientist of DGK IMPAKT Consulting
-
+by Dirk Kadijk
 
 ## Table of Contents
 
