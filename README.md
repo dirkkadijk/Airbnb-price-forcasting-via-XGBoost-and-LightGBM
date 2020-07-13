@@ -56,7 +56,7 @@ The outcomes are:
 - The advantage of the LGBM model is that it has a broad set of features which are important in the model with as the most dominant: **latitude, month, totalrooms, longitude, reviews_per_month, street, amenities_length.**
 - This suggests that the LGBM model is the more robust model, however one can use both models and compare (or average) the price forecasts.
 
-The Medium blog with a summary of results with the visuals you can find [here](xxxxxx)
+The Medium blog with a summary of results with the visuals you can find [here](https://medium.com/@dirkkadijk/this-is-how-you-can-save-money-on-an-airbnb-booking-and-predict-prices-with-xgboost-and-lightgbm-8a944e2154eb).
 
 
 ## 5. Licensing, Authors, Acknowledgements
