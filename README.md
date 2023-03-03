@@ -64,4 +64,4 @@ A Medium post with a summary of results with the visualizations you can find [he
 
 Must give credit to Airbnb Inside which is an independent, non-commercial set of tools and data that allows you to explore how Airbnb is really being used in cities around the world.
 
-And credit to Vitalii Dodonov who created the codes for a wrapper class to add labels to the One Hot Encoder output while keeping the “one line” implementation is to create a wrapper class that assigns labels during the transform() operation “inside the box”. Is used the code from the following [source](https://towardsdatascience.com/how-to-assign-labels-with-sklearn-one-hot-encoder-e59a5f17df4f):
+And credit to Vitalii Dodonov who created the codes for a wrapper class to add labels to the One Hot Encoder output while keeping the “one line” implementation is to create a wrapper class that assigns labels during the transform() operation “inside the box”. Is used the code from the following [source](https://towardsdatascience.com/how-to-assign-labels-with-sklearn-one-hot-encoder-e59a5f17df4f).
